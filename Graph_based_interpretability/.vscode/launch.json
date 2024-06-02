@@ -1,0 +1,15 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python: mxq7",
+            "type": "python",
+            "request": "launch",
+            "program": "${file}",
+            "console": "integratedTerminal",
+            "justMyCode": true,
+             //环境名对应的python路径
+            "python": "/home/dell/miniconda3/envs/mxq7/bin/python"
+        },
+    ]
+}
